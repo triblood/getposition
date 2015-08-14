@@ -1,0 +1,23 @@
+###OSX###
+ 
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+*/**/.DS_Store
+ 
+# Thumbnails
+._*
+ 
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+node_modules/
+.grunt
+.sass-cache/
+*/.DS_Store
+arquivos/css/**/*
+_css/
+css/
+js/
